@@ -17,3 +17,6 @@ Estou focada em construir uma base sólida em duas áreas:
 - Exercícios de lógica de programação em Python.
 
 ---
+### 📬 Conecte-se Comigo
+-- https://www.linkedin.com/in/geovanna-brenzinger/
+-- geovanna.brenzinger241205@gmail.com
